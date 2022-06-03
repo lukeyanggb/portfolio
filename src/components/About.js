@@ -14,7 +14,6 @@ class About extends Component {
     return(
       <div className="uc-section _center">
         <div className="uc-section-title">About Me</div>
-        <p>Hello,</p>
         <div className="uc-grid-unit">
           <div className="uc-grid">
             <div className="uc-card">

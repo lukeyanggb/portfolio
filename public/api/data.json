@@ -2,7 +2,7 @@
   "works": [
     {
       "title": "Marijuana Analyzer",
-      "link": "http://ec2-54-226-199-57.compute-1.amazonaws.com:8081/",
+      "link": "http://yanglu.me:8081/",
       "text": "Marijuana Analyzer is a web app showing insights of marijuana effects on mental health and future drug abuse. Integrated with interactive data visualization and predictive machine learning models.",
       "tag": "JavaScript, Python, D3.js, Bootstrap, AWS, scikit-learn",
       "image": "/img/works/01.png"
@@ -23,7 +23,7 @@
     },
     {
       "title": "MovieDB Lite",
-      "link": "http://ec2-54-226-199-57.compute-1.amazonaws.com:8082/",
+      "link": "http://yanglu.me:8082/",
       "text": "A light weight movie database React app. Movie information is obtained by making OMDb API requests.",
       "tag": "JavaScript, React.JS, RESTful API",
       "image": "/img/works/05.png"
