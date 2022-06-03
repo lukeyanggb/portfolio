@@ -1,0 +1,32 @@
+{
+  "works": [
+    {
+      "title": "Marijuana Analyzer",
+      "link": "http://ec2-54-226-199-57.compute-1.amazonaws.com:8081/",
+      "text": "Marijuana Analyzer is a web app showing insights of marijuana effects on mental health and future drug abuse. Integrated with interactive data visualization and predictive machine learning models.",
+      "tag": "JavaScript, Python, D3.js, Bootstrap, AWS, scikit-learn",
+      "image": "/img/works/01.png"
+    },
+    {
+      "title": "Grocery Express Web Application",
+      "link": "https://github.com/lukeyanggb/Grocery-Express-Web-App",
+      "text": "Grocery Express is a system that simulates the interactions between various customers and grocery stores, along with third party entities that facilitate the placement and delivery of orders.",
+      "tag": "Java, Spring Boot, Spring Security, MySQL, Redis, Thymeleaf",
+      "image": "/img/works/02.png"
+    },
+    {
+      "title": "Furniture Sales Reporting System",
+      "link": "https://github.com/lukeyanggb/Furniture-Sales-Reporting-System",
+      "text": "Furniture Sales Reporting System is a sales reporting system with a dashboard UI to support enterprise decision making. The database is designed and optimized for reporting and analysis over millions of records.",
+      "tag": "Python, PostgreSQL, Flask, HTML/CSS",
+      "image": "/img/works/03.png"
+    },
+    {
+      "title": "MovieDB Lite",
+      "link": "http://ec2-54-226-199-57.compute-1.amazonaws.com:8082/",
+      "text": "A light weight movie database React app. Movie information is obtained by making OMDb API requests.",
+      "tag": "JavaScript, React.JS, RESTful API",
+      "image": "/img/works/05.png"
+    }
+  ]
+}
