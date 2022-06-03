@@ -1,3 +1,3 @@
 # my portfolio site
 
-[Go!](http://yusukeishiguro.com)# portfolio
+[Go!](https://github.com/lukeyanggb)
