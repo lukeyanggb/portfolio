@@ -7,7 +7,9 @@ class Works extends Component {
     return(
       <section className="works uc-section _center">
         <h2 className="uc-section-title">My Projects</h2>
-        <p>Demos</p>
+        <p>
+        <a href="https://github.com/lukeyanggb" target="_blank" class="arrow-link">Repositories see my github</a>
+        </p>
         <div className="uc-card-unit">
           <WorksCard />
         </div>
