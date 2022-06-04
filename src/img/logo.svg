@@ -13,7 +13,21 @@
 	.st7{fill:#14385F;}
 	.st8{fill:#FFFFFF;}
 </style>
-<g id="Layer_2">
+<font horiz-adv-x="1000">
+<!-- LoRes 12 is a trademark of Emigre, Inc. -->
+<!-- Copyright: Copyright 2022 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="LoRes12OT-Bold" units-per-em="1000" underline-position="-92" underline-thickness="31"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph unicode=" " horiz-adv-x="250"/>
+<glyph unicode="L" horiz-adv-x="500" d="M83,-1l0,669l168,0l0,-584l250,0l0,-85z"/>
+<glyph unicode="Y" horiz-adv-x="667" d="M501,499l0,-166l-83,0l0,-334l-169,0l0,334l-83,0l0,166l-83,0l0,169l168,0l0,-167l83,0l0,-167l82,0l0,334l168,0l0,-169z"/>
+<glyph unicode="a" horiz-adv-x="667" d="M166,-1l0,84l-83,0l0,168l83,0l0,83l250,0l0,82l-250,0l0,85l335,0l0,-83l83,0l0,-419M416,249l-165,0l0,-165l165,0z"/>
+<glyph unicode="g" horiz-adv-x="667" d="M584,416l0,-500l-83,0l0,-84l-335,0l0,85l250,0l0,82l-250,0l0,84l-83,0l0,335l83,0l0,83l502,0l0,-85M416,416l-165,0l0,-332l165,0z"/>
+<glyph unicode="n" horiz-adv-x="667" d="M416,-1l0,417l-82,0l0,-83l-83,0l0,-334l-168,0l0,502l168,0l0,-83l82,0l0,83l168,0l0,-83l83,0l0,-419z"/>
+<glyph unicode="u" horiz-adv-x="667" d="M501,83l0,-84l-335,0l0,84l-83,0l0,418l168,0l0,-417l165,0l0,417l168,0l0,-418z"/>
+</font>
+
+	<g id="Layer_2">
 	<text transform="matrix(1 0 0 1 83.9979 296.523)" class="st0 st1">Yang Lu</text>
 </g>
 <g id="Layer_1">
