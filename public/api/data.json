@@ -16,7 +16,7 @@
     },
     {
       "title": "Furniture Sales Reporting System",
-      "link": "https://github.com/lukeyanggb/Furniture-Sales-Reporting-System",
+      "link": "http://yanglu.me:8083/",
       "text": "Furniture Sales Reporting System is a sales reporting system with a dashboard UI to support enterprise decision making. The database is designed and optimized for reporting and analysis over millions of records.",
       "tag": "Python, PostgreSQL, Flask, HTML/CSS",
       "image": "/img/works/03.png"
