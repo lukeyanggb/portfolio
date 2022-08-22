@@ -25,8 +25,15 @@
       "title": "MovieDB Lite",
       "link": "http://yanglu.me:8082/",
       "text": "A light weight movie database React app. Movie information is obtained by making OMDb API requests.",
-      "tag": "JavaScript, React.JS, RESTful API",
+      "tag": "React, JavaScript/HTML/CSS, API",
       "image": "/img/works/05.png"
+    },
+    {
+      "title": "Meme Generator",
+      "link": "http://yanglu.me:8084/",
+      "text": "Meme Generator is an online image maker that lets you create customized memes.",
+      "tag": "React, JavaScript/HTML/CSS, API",
+      "image": "/img/works/06.png"
     }
   ]
 }
